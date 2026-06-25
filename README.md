@@ -7,7 +7,7 @@ College: Sri Venkateswara College of Engineering
 
 Internship: Machine Learning Internship
 
-Task Number: Task 1 – House price prediction
+Task Number: Task 2 – House price prediction
 
 
 ## Model File
