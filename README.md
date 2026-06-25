@@ -1,5 +1,4 @@
 # House_price_prediction
-# House Price Prediction
 
 ## Model File
 
@@ -155,15 +154,6 @@ The residual plot helps determine how well the model fits the data.
 
 ---
 
-# 💾 Model Saving
-
-The trained Random Forest model was saved using Joblib.
-
-```python
-joblib.dump(rf, "house_model.pkl")
-```
-
----
 
 # 🔮 Sample Prediction
 
@@ -218,18 +208,7 @@ House_Price_Prediction/
 
 ---
 
-# 🚀 How to Run the Project
 
-1. Clone the repository.
-2. Open the notebook in Google Colab or Jupyter Notebook.
-3. Upload the dataset.
-4. Install required libraries.
-5. Run all cells sequentially.
-6. Train the models.
-7. Evaluate the models.
-8. Generate predictions.
-
----
 
 # 📦 Required Libraries
 
@@ -237,15 +216,7 @@ House_Price_Prediction/
 pip install pandas numpy matplotlib seaborn scikit-learn joblib
 ```
 
----
 
-# 🔗 Model File
-
-The trained model file exceeds GitHub's upload limit.
-
-Google Drive Link:
-
-PASTE YOUR GOOGLE DRIVE LINK HERE
 
 ---
 
