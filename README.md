@@ -229,15 +229,6 @@ pip install pandas numpy matplotlib seaborn scikit-learn joblib
 
 ---
 
-# 👩‍💻 Author
-
-**Mayuri Matteddula**
-
-B.Tech Student
-
-Artificial Intelligence and Machine Learning
-
----
 
 # ✅ Conclusion
 
