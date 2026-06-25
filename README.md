@@ -1,4 +1,14 @@
-# House_price_prediction
+
+# 🏠 House Price Prediction Using Machine Learning
+## Author
+Name: Matteddula Mayuri
+
+College: Sri Venkateswara College of Engineering
+
+Internship: Machine Learning Internship
+
+Task Number: Task 1 – House price prediction
+
 
 ## Model File
 
@@ -7,7 +17,6 @@ The trained model file exceeds GitHub's upload limit.
 Google Drive Link:
 https://drive.google.com/file/d/1i4wg4eUsd2AFza1wnXCP8hlQbgoiPtr7/view?usp=sharing
 
-# 🏠 House Price Prediction Using Machine Learning
 
 ## 📌 Project Description
 
